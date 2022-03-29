@@ -3,7 +3,7 @@ Spring 2021 Machine Learning ([CS 181](https://harvard-ml-courses.github.io/cs18
 
 # Problem Topics
 
-1. Optimizing a Kernel
+1. Optimizing a Kernel  
   - Temp
 3. Kernels and K-Nearest Neighbors
 4. Deriving Linear Regression
