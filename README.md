@@ -5,12 +5,13 @@ Spring 2021 Machine Learning ([CS 181](https://harvard-ml-courses.github.io/cs18
 
 > Solutions contained in the `personal-solutions` folder
 
-1. Optimizing for Kernel-Based Regression  
-    - Temp
-3. Kernels and K-Nearest Neighbors
-4. Deriving Linear Regression
-5. Linear Regression with Basis Functions
+1. Optimizing for Kernel-Based Regression
+2. Kernels and K-Nearest Neighbors
+3. Deriving Linear Regression
+4. Linear Regression with Basis Functions
 
 ---
 
 # Code
+
+> Implementation contained in the `code` folder
