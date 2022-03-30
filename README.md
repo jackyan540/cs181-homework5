@@ -17,8 +17,8 @@ Spring 2021 Machine Learning ([CS 181](https://harvard-ml-courses.github.io/cs18
 
 #### problem1-EM-Mixture-Model.py
 
-- 
+- Referred to as `T5_P1.py` in the specifications
 
 #### problem2-Principal-Components-Analysis.py
 
-- 
+- Referred to as `T5_P2.py` in the specifications
