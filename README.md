@@ -6,8 +6,8 @@ Spring 2021 Machine Learning ([CS 181](https://harvard-ml-courses.github.io/cs18
 > Solutions contained in the `personal-solutions` folder
 
 1. Expecation-Maximization for a Categorical-Geometric Mixture model
-2. A
-3. A
+2. Apply Principal Components Analysis on image data and calculate the reconstruction error
+3. Conditional independence properties of a Bayesian Network
 
 ---
 
