@@ -5,7 +5,7 @@ Spring 2021 Machine Learning ([CS 181](https://harvard-ml-courses.github.io/cs18
 
 > Solutions contained in the `personal-solutions` folder
 
-1. A
+1. Expecation-Maximization for a Categorical-Geometric Mixture model
 2. A
 3. A
 
